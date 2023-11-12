@@ -72,8 +72,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist
 
 
 ###########################📽️ FILMESCINE################################
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="📽️ Filmes",Kuriakos Cine
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://video01.soultv.com.br/barcellos/barcellos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mumwudwk", group-title="📽️ Filmes", Mega Cine
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
@@ -91,8 +89,6 @@ https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
 https://encurtador.com.br/OSTW8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/Pngteleweb", group-title="📽️ Filmes", TeleWeb
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encurtador.com.br/sGPY8", group-title="📽️ Filmes", Tv Acesso
-https://encurtador.com.br/bCXZ9
 #EXTINF:0 tvg-logo="" group-title="📽️ Filmes",MARCHETI
 https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w859794043.m3u8
 #EXTINF:0 tvg-logo="" group-title="📽️ Filmes", VARGEM
@@ -111,14 +107,8 @@ https://acesso.ecast.site:3186/live/esflixlive.m3u8
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="📽️ Filmes", XTreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📽️ Filmes",CINDIE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title="📽️ Filmes",TVJN
-https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="📽️ Filmes",NOVAPLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1212094222.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7JNBpOehAvdmuezwdQ4Z6vylJxmYMACVl7NkHb_oLBhAv1KmmwJpYpBmjxatZt2NEf_D8X3iOEFjfvBVIFVtbtx7YhdYV41HeYi5C3w0NyNFLH1PsbBOInWhrSiml4ckDGRs3eGc8ge8387sPvjvJCAQ7sX7X7xCFaDUD7OJzk16oqgKq13Q8VA0B/w1200-h630-p-k-no-nu/REDE%20ITV.jpg" group-title="📽️ Filmes",ITV
-https://stmv1.paineltv.net/miguel1318/miguel1318/chunklist_w1394480652.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkyXxQfyjjaakQqZWXV9tUxMRXnH6no5sriTF3mlpbJmTv_8xE_WsG8GgDmUGvK0209Qpn_orNrEv71x1JEXlVCvg23YaLc5Qt4NOMoSbZV99R1R8b-R1cNJYitgjmjY3ZsHUuTVWfr3sMOPoLJh6CMWjFeOdeFUGFFwoYKBshEfp_n2l8UxRueNO/w1200-h630-p-k-no-nu/TV%20CEI.jpg" group-title="📽️ Filmes",TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVsjYceRuAU9iZb9PK9v-ygCu-EsSmHq94oh8YtSSumXiUa_7pCrqcVPwBCkOvEtozlt7Smr6KscZVcMvyaXJi4xqxOkpLNxcXvvkjujWJJ6fjhXOM1rQoAIpD6XJBGEVurJ1KJ9y7Kdwy4MxICr6H1xi1hf0YpFo0BbJ0V7hBukQSWhAAu9C0l1fK2Pk/w1200-h630-p-k-no-nu/CINE%20TV%20HITS.jpg" group-title="📽️ Filmes",CINE HITS
@@ -131,8 +121,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="📽️ Filmes", NOVELANDO
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="📽️ Filmes",URBAN TV
-https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="📽️ Filmes",SONY ONE EMOCOES
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/08DowrA.png" group-title="📽️ Filmes",SERIES ACAO
@@ -143,8 +131,6 @@ https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📽️ Filmes",XTREME
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="📽️ Filmes", VILA 
-https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
 
 ########################################🎶MUSICAS#####################
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="🎶 Música", Kpop TV Play
@@ -817,7 +803,7 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="BRASIL",Discovery Science HD 
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="📽️ Filmes",TNT Novelas HD
-http://45.58.126.146:14338/
+https://live.telelatinohd.com:8080/MTc3LjcyLjE5OC4yMjE=/209_.m3u8?token=PcELRCu7DueePI9WJvEKAA&expires=1699826933
 #EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="📽️ Filmes", Novelando
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JmK2D4i.png" group-title="📽️ Filmes",Novelas Turcas
