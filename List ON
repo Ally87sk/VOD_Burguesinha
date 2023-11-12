@@ -803,7 +803,7 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="BRASIL",Discovery Science HD 
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="📽️ Filmes",TNT Novelas HD
-http://45.189.117.202:48000/play/a030/index.m3u8
+http://200.114.68.133:8999/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="📽️ Filmes", Novelando
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JmK2D4i.png" group-title="📽️ Filmes",Novelas Turcas
