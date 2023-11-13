@@ -93,6 +93,8 @@ https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w191368855.
 https://encurtador.com.br/bdiA7
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="📽️ Filmes",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3pfmxnfp", group-title="📽️ Filmes", Trailers
+https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/blitstv3" group-title="📽️ Filmes",Rede QDM
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="📽️ Filmes", Classic Séries
@@ -139,8 +141,10 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/11/maisum.png" group-title="🎶 Música",MAIS UM
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2p8ek3pj", group-title="🎶 Música" , Trace Urban
+https://i.mjh.nz/SamsungTVPlus/ESBA3300043M0.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="🎶 Música", Retro TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="🎶 Música", Capital TV
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="🎶 Música", M2O
@@ -158,7 +162,8 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="🎶 Música", Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="🎶 Música", Ocko Star
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8 
+#EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="🎶 Música", 4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="🎶 Música", RTL (Italia)
@@ -214,6 +219,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TVE-24h.png" group-title="📰 News", TVE 24
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="📰 News", RT EN 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500024LR_20230222T012038SQUARE.png_20230222012039.png", group-title="📰 News", Euronews en directo
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 
 ###############################✝️RELIGIOSOS####################
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mtbbrd4j", group-title="✝️ Religioso",Feliz 7 Play
@@ -224,6 +231,8 @@ https://alanza.iptv2022.com/TV_KING/tracks-v1a1/index.m3u8
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1134839487.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="✝️ Religioso", Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=null" group-title="✝️ Religioso", Renascer
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="✝️ Religioso",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="✝️ Religioso", Novo Tempo
@@ -238,6 +247,9 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcandideslogo.png" group-title="✝️ Religioso",TV Candides
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/jrytfnnp", group-title="✝️ Religioso", Tv Fonte
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+
 ################################################
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/TVCIDADE.png" group-title="BRASIL", TV Cidade (stb rj)
@@ -294,7 +306,7 @@ https://encurtador.com.br/nCJPX
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="🦸 Desenhos",Super Kaos TV (360p)
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
-#EXTINF: -1 tvg-logo="", group-title="🦸 Desenhos", SuperToons tv
+#EXTINF: -1 tvg-logo="https://tinyurl.com/4nxjs952", group-title="🦸 Desenhos", SuperToons tv
 https://i.mjh.nz/SamsungTVPlus/FRBA3300029ZY.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="🦸 Desenhos",WOW TV 
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
@@ -345,6 +357,8 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VhU32Jw.png" group-title="⚽ Esportes",COMBATE GLOBAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mvpff6mt", group-title="⚽ Esportes", Trace Sportstars
+https://i.mjh.nz/SamsungTVPlus/ESBA3300035DP.m3u8
 #EXTINF:-1 group-title="⚽ Esportes" resolution="1280@720",PONTV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚽ Esportes", ESPORTES BRASILIA
@@ -447,6 +461,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" group-title="🗺️ Documentario",CGTN HD
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ehx2dxm5", group-title"🗺️ Documentario", Love the Planet
+https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TVG.png" group-title="BRASIL",TV Galacia
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="BRASIL",Canal Extremadura
@@ -691,12 +707,16 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?WebM3UCL
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20230926T032405SQUARE.png_20230926032406.png",  group-title="🌍 Internacionais", Comedias SPain - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500019AM.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a492cc7ef638fb2911e0c045d4930186.jpg" group-title="🌍 Internacionais",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🌍 Internacionais",REUTERS
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5eea71d65252710041e0ccbc.m3u8?X-Plex-Session-Identifier=uhcvvd7ozq8eljl5res17gu1&X-Plex-Product=Plex%20Web&X-Plex-Version=4.109.2&X-Plex-Client-Identifier=aorrhiv6nlxk6kah0luiq0ob&X-Plex-Platform=Chrome&X-Plex-Platform-Version=114.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1366x629%2C1373x633&X-Plex-Token=NGAHx5cksQ-FxCt5dFmu&X-Plex-Language=pt-BR&Accept-Language=pt-BR&X-Plex-Session-Id=f6317062-9ddc-4ff0-8390-7f3149060add
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCXl0rq.png" group-title="🌍 Internacionais",CampusLore
 https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/zbacs9k7", group-title="🌍 Internacionais", Azteca Internacional
+https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMrB17k.png" group-title="🌍 Internacionais",Canal 9 Ixchigua
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🌍 Internacionais",PRESS TV
